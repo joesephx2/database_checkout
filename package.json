@@ -1,0 +1,25 @@
+{
+  "name": "database_checkout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joesephx2/database_checkout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joesephx2/database_checkout/issues"
+  },
+  "homepage": "https://github.com/joesephx2/database_checkout#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.6",
+    "pg": "^8.6.0"
+  }
+}
